@@ -1,0 +1,30 @@
+{
+  "title": "外婆去世后，她拿着一封信，去敲楼里最不敢敲的那扇门",
+  "author": "WMelon会客厅",
+  "notice": "阅读提示｜下文涉及《外婆的道歉信》的主要情节和部分结局。",
+  "overview": {
+    "file": "images/map-after.jpg",
+    "alt": "爱莎送信时听见邻居的往事；妈妈从外婆那里收到另一封信。两段经历让爱莎重新认识外婆。"
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "爱莎站在邻居家门口，手里捏着一封信。信上那几行字，她只认得一个词：“密阿玛斯”。那是外婆讲的故事里的地方。她顺着信上的地址找来，才发现收信人就住在同一栋楼，正是她平时会绕着走的那个男人。"
+    },
+    {
+      "type": "paragraph",
+      "text": "她在心里管他叫“怪物”。一个孩子为什么怕他，倒不难想象：他很少跟邻居来往，爱莎也几乎没和他说过话。现在，她按了门铃，又敲了门。里面没有人应。"
+    },
+    {
+      "type": "source",
+      "text": "小说《外婆的道歉信》出版方简介",
+      "url": "https://www.simonandschuster.com/books/My-Grandmother-Asked-Me-to-Tell-You-Shes-Sorry/Fredrik-Backman/9781501115073"
+    }
+  ],
+  "book": {
+    "title": "外婆的道歉信",
+    "author": "弗雷德里克·巴克曼",
+    "publisher": "天津人民出版社",
+    "edition": "2017年版 · 孟汇一译"
+  }
+}

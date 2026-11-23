@@ -1,0 +1,33 @@
+{
+  "title": "《全球通史》：今天的世界，是怎样一步步形成的？",
+  "author": "WMelon会客厅",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "吃火锅的时候，谁会特意想一想辣椒的来历？"
+    },
+    {
+      "type": "paragraph",
+      "text": "我们太熟悉它了。川菜、湘菜，家里的辣椒炒肉，桌上的一碟辣椒油，都像是自古就有的东西。"
+    },
+    {
+      "type": "heading",
+      "text": "辣椒怎么来到我们熟悉的餐桌？"
+    },
+    {
+      "type": "paragraph",
+      "text": "一颗种子要走这么远，需要船、航线、商人，也需要沿途有人保存和种植。抵达之后，还要适应当地的环境，进入人们的生活。地图上画一根箭头就能表示的传播，在历史里可能要经过好几代人。"
+    },
+    {
+      "type": "image",
+      "file": "cover.jpg",
+      "alt": "辣椒、帆船与海图连接起一口辣椒和世界史",
+      "caption": "WMelon会客厅公众号文章封面"
+    },
+    {
+      "type": "source",
+      "text": "牛津大学植物标本馆｜辣椒属",
+      "url": "https://herbaria.plants.ox.ac.uk/bol/plants400/Profiles/cd/Capsicum"
+    }
+  ]
+}
